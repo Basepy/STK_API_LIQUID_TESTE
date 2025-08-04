@@ -1,0 +1,1 @@
+seed_mnemonic = ["able", "happy", "spin", "wire", "weird", "excess", "anxiety", "cube", "drop", "stock", "wing", "uncover"]

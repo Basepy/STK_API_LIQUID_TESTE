@@ -1,0 +1,8 @@
+version: "0.1.0"
+
+services:
+  liquid-sender:
+    build: ./api
+    restart: always
+    ports:
+      - "8000:8000"

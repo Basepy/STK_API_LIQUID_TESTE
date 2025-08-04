@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aula-lwk"
+version = "0.1.0"
+description = ""
+authors = ["Lucas Santos Silva <luss1010@gmail.com>"]
+readme = "README.md"
+packages = [{include = "aula_lwk"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+lwk = "^0.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
