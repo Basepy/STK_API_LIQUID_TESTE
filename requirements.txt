@@ -1,0 +1,6 @@
+lwk
+maturin
+maturin[patchelf]
+uniffi-bindgen
+uvicorn
+fastapi[standard]
